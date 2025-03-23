@@ -12,7 +12,7 @@ AI, 개발, 부동산 등 다양한 분야에서 성장하는 기록을 남깁�
 ## 📂 폴더 구조
 | 폴더명 | 내용 |
 |-------|------|
-| **AI/** | 생성형 AI, 머신러닝, 딥러닝 |
+| **AI/** | Generative AI |
 | **Backend/** | Python, Java, Node.js 등 백엔드 |
 | **CS/** | 자료구조, 알고리즘, OS, 네트워크 |
 | **Infra/** | Docker, Kubernetes, 클라우드 |
